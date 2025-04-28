@@ -4,7 +4,7 @@ El objetivo es mostrar resultados dinámicos en la web de forma sencilla y efici
 
 🚀 Tecnologías
 HTML5
-JavaScript (ES6+)
+JavaScript 
 Fetch API
 
 🎯 ¿Qué es fetch?
